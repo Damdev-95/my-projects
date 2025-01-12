@@ -1,0 +1,1 @@
+Hello there! By using Infrastructure as Code (IaC), we can easily manage the deployment and management of multiple VPCs, streamlining the process. This approach not only simplifies network configuration but also allows for a practical, hands-on experience in automating infrastructure management.
